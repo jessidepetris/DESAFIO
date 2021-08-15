@@ -1,0 +1,20 @@
+[
+    {
+        "name":"azucar"
+    },
+    {
+        "name":"yerba"
+    },
+        {
+        "name":"manteca"
+    },
+        {
+        "name":"mermelada"
+    },
+        {
+        "name":"pan"
+    },
+        {
+        "name":"queso"
+    }
+]
